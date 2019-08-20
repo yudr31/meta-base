@@ -18,7 +18,7 @@
     <modules>
         <module>../eureka</module>
         <module>../gateway</module>
-        <module>../config</module>
+        <module>../config-server</module>
         <module>../dash-board</module>
         <module>../meta-common</module>
         <module>../feign-api</module>
