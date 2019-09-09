@@ -25,6 +25,7 @@
         <module>../permission</module>
         <module>../web-system</module>
         <module>../sports</module>
+        <module>../notify</module>
     </modules>
 
     <properties>
